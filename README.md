@@ -72,7 +72,7 @@ Ctrl + C
 For Software:
 
 # Screenshots (Add at least 3)
-<img width="1280" height="640" alt="/>
+<img width="1280" height="640" alt="https://github.com/sinsiyas/useless_project_temp/blob/main/Screenshot%20blink.png"/>
 *Add caption explaining what this shows*
 
 ![Screenshot2](Add screenshot 2 here with proper name)
