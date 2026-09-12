@@ -72,7 +72,7 @@ Ctrl + C
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+<img width="1280" height="640" alt="/>
 *Add caption explaining what this shows*
 
 ![Screenshot2](Add screenshot 2 here with proper name)
