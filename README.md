@@ -72,7 +72,7 @@ Ctrl + C
 For Software:
 
 # Screenshots (Add at least 3)
-<img src ="/Screenshotblink.png" width="800">
+<img src ="Screenshotblink.png" width="800">
 *Add caption explaining what this shows*
 
 ![Screenshot2](Add screenshot 2 here with proper name)
